@@ -1,3 +1,5 @@
+package recursion
+
 /**
   * https://www.hackerrank.com/challenges/pascals-triangle
   * Created by 212457624 on 08.07.2016.
