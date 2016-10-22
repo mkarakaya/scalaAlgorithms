@@ -3,7 +3,7 @@ package introduction
 import scala.collection.mutable.ListBuffer
 
 /**
- * Created by p.bell on 12.07.2016.
+ * Created by mokarakaya on 12.07.2016.
  * https://www.hackerrank.com/challenges/fp-list-replication
  */
 object ListReplication {
