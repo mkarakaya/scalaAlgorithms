@@ -1,4 +1,4 @@
-package graphTheory
+package hackerrank.graphTheory
 
 /**
   * Created by mokarakaya on 01.10.2016.

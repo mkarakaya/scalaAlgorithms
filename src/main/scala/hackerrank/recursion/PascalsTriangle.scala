@@ -1,8 +1,8 @@
-package recursion
+package hackerrank.recursion
 
 /**
   * https://www.hackerrank.com/challenges/pascals-triangle
-  * Created by 212457624 on 08.07.2016.
+  * Created by mokarakaya on 08.07.2016.
   */
 object PascalsTriangle {
 

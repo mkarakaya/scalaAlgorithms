@@ -1,10 +1,10 @@
-package dynamicProgramming
+package hackerrank.dynamicProgramming
 
 import scala.io.StdIn
 
 /**
   * https://www.hackerrank.com/challenges/stockmax
-  * Created by 212457624 on 31.07.2016.
+  * Created by mokarakaya on 31.07.2016.
   */
 object StockMaximize {
   def main(args: Array[String]): Unit = {

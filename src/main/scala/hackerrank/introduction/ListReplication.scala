@@ -1,4 +1,4 @@
-package introduction
+package hackerrank.introduction
 
 import scala.collection.mutable.ListBuffer
 

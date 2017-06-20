@@ -1,4 +1,4 @@
-package search
+package hackerrank.search
 
 /**
   * Created by mokarakaya on 10.10.2016.

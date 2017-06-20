@@ -1,10 +1,10 @@
-package dynamicProgramming
+package hackerrank.dynamicProgramming
 
 import scala.io.StdIn
 
 /**
   * https://www.hackerrank.com/challenges/coin-change
-  * Created by 212457624 on 30.07.2016.
+  * Created by mokarakaya on 30.07.2016.
   */
 object coinChangeProblem {
 

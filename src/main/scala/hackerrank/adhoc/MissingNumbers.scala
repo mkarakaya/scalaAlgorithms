@@ -1,10 +1,10 @@
-package adhoc
+package hackerrank.adhoc
 
 import scala.collection.mutable.ListBuffer
 import scala.io.StdIn
 
 /**
-  * Created by 212457624 on 15.07.2016.
+  * Created by mokarakaya on 15.07.2016.
   */
 object MissingNumbers {
 

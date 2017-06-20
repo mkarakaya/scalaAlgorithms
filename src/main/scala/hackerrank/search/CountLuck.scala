@@ -1,4 +1,4 @@
-package search
+package hackerrank.search
 
 import scala.collection.mutable.{ArrayBuffer, ListBuffer}
 import scala.io.StdIn

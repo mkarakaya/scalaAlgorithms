@@ -1,4 +1,4 @@
-package sorting
+package hackerrank.sorting
 
 /**
   * Created by mokarakaya on 09.10.2016.

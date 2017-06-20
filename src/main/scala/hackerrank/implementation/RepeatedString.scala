@@ -1,4 +1,4 @@
-package implementation
+package hackerrank.implementation
 
 /**
   * Created by mokarakaya on 10.10.2016.

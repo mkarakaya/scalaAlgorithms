@@ -1,4 +1,4 @@
-package functionalStructures
+package hackerrank.functionalStructures
 
 import java.util
 
@@ -6,7 +6,7 @@ import scala.collection.mutable
 import scala.io.StdIn
 
 /**
-  * Created by 212457624 on 17.07.2016.
+  * Created by mokarakaya on 17.07.2016.
   */
 object PrisonTransport {
 
